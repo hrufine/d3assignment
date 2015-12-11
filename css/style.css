@@ -1,0 +1,21 @@
+body {
+    margin-top: 80px;
+    font: 10px sans-serif;
+}
+li {
+    font-size: 40px;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+}
+.bar {
+    fill: steelblue;
+}
+.bar:hover {
+    fill: brown;
+}
+h1 {
+    padding-left: 300px;
+}
